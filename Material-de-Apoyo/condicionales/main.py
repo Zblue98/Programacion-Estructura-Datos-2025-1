@@ -6,7 +6,7 @@ SI se_cumple_esta_condicion:
 SI NO:
     Se ejecutan otro grupo de instruciones
 
-in condicion:
+if condicion:
     instruciones
 else:
     otras instruciones
