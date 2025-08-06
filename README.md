@@ -53,5 +53,3 @@ Si tienen dudas o necesitan ayuda, pueden contactarnos a través de los siguient
 Saludos,
 
 **Harlinto Palacios** (Docente) y **Albis Fox** (Monitor)
-
-https://forms.office.com/r/U6NgqpPWj8
